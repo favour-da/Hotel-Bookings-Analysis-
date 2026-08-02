@@ -30,8 +30,8 @@ This dashboard was built using a real-world hotel bookings dataset (~119,000 row
 See [documentation/dax_measures.md](documentation/dax_measures.md) for the full list of measures used, including Total Revenue, RevPAR, Occupancy Rate, and more.
 
 ## Screenshots
-![KPI Summary Dashboard](screenshots/kpi_summary.png)
-![Overview Dashboard](screenshots/overview.png)
+![KPI Summary Dashboard](kpi_summary.png)
+![Overview Dashboard](overview.png)
 
 ## Dataset
 Hotel Booking Demand dataset (publicly available on Kaggle).
